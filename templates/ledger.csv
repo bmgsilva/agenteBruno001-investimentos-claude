@@ -1,0 +1,4 @@
+instrumento,isin,data,unidades,preco_medio_eur,valor_investido_eur,balde,stop_mental,notas
+Vanguard FTSE All-World UCITS ETF (Acc),IE00BK5BQT80,2026-01-15,0,0,0,core,,exemplo
+iShares Core MSCI EM IMI UCITS ETF,IE00BKM4GZ66,2026-01-15,0,0,0,em,,exemplo
+Cash remunerado,,2026-01-15,,,0,cash,,exemplo

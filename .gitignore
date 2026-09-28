@@ -1,0 +1,9 @@
+# Nunca publicar dados pessoais/financeiros
+*.pdf
+privado/
+extratos/
+*extrato*
+*comprovativo*
+ledger-real*.csv
+.env
+.DS_Store
